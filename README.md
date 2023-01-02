@@ -1,4 +1,4 @@
-# Tasks App
+# Athena
 Welcome to Task App (AKA Athena)! This application is for IT touble ticketing with three distinct UI/UX based on one of three roles.
 
 # Roles
